@@ -6,3 +6,7 @@ them over custom object images and creating a tf record file that needs to be fe
 Here we have trained a model to detect palms using Faster - RCNN (details can be found in the config file), about 130 something images 
 have been used in total along with train and test since we had a single cassifier to train. All the necessary files are here along with 
 the trained model.
+
+## Here's how the model looks in action -
+
+<img src = "https://github.com/BikashPandey17/obj_dec/blob/master/infer_images/img1.jpeg?raw=true"></img>
